@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding Stuff\\C#\\Simple Calculator\\Simple Calculator.csproj": {}
+    "E:\\Coding Stuff\\C# Simple Applications\\Simple Calculator\\Simple Calculator.csproj": {}
   },
   "projects": {
-    "E:\\Coding Stuff\\C#\\Simple Calculator\\Simple Calculator.csproj": {
+    "E:\\Coding Stuff\\C# Simple Applications\\Simple Calculator\\Simple Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding Stuff\\C#\\Simple Calculator\\Simple Calculator.csproj",
+        "projectUniqueName": "E:\\Coding Stuff\\C# Simple Applications\\Simple Calculator\\Simple Calculator.csproj",
         "projectName": "Simple Calculator",
-        "projectPath": "E:\\Coding Stuff\\C#\\Simple Calculator\\Simple Calculator.csproj",
+        "projectPath": "E:\\Coding Stuff\\C# Simple Applications\\Simple Calculator\\Simple Calculator.csproj",
         "packagesPath": "C:\\Users\\Dip\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding Stuff\\C#\\Simple Calculator\\obj\\",
+        "outputPath": "E:\\Coding Stuff\\C# Simple Applications\\Simple Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dip\\AppData\\Roaming\\NuGet\\NuGet.Config",

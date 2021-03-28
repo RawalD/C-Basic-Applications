@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8MgK5GYl4c1fdpYAv4YHR2vsBJqQiQjjTYMSXIqOa0Q4qRTOUzrDtY42KmFosBVoRsT9SvE2WFPElDg+csAN4A==",
+  "dgSpecHash": "70ud8v1hnPZmLohz6hyNquv+DOzn45XIfFFfPh5mAdrSfEC/ECk65GJrTm0C3l+xeuhWIAV7B8C/XHCG7NaKVA==",
   "success": true,
-  "projectFilePath": "E:\\Coding Stuff\\C#\\Simple Calculator\\Simple Calculator.csproj",
+  "projectFilePath": "E:\\Coding Stuff\\C# Simple Applications\\Simple Calculator\\Simple Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

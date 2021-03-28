@@ -1,0 +1,13 @@
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.exe
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.deps.json
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.runtimeconfig.json
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.runtimeconfig.dev.json
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.dll
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\bin\Debug\netcoreapp3.1\Simple Calculator.pdb
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.csprojAssemblyReference.cache
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.AssemblyInfoInputs.cache
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.AssemblyInfo.cs
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.csproj.CoreCompileInputs.cache
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.dll
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.pdb
+E:\Coding Stuff\C# Simple Applications\Simple Calculator\obj\Debug\netcoreapp3.1\Simple Calculator.genruntimeconfig.cache
